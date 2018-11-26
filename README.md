@@ -21,24 +21,6 @@
 
 ---
 
-<img src="https://cloud.githubusercontent.com/assets/11243798/21165504/c4c85a02-c1da-11e6-8937-36e9a8f5de59.png" alt="首页" width="50%">
-
-更多截图见：https://github.com/lanshan-studio/wecqupt/issues/196
-
----
-
-## 开源许可证 License AGPLv3
-
-> 开源是一种精神，南工助手微信小程序的开源更是SZP科技工作室的一种进步
-> 
-> 开源是自由的，而不是免费的；Free(自由) is not free(免费)。 
-
-请认真阅读并遵守以下开源协议
-
-`AGPLv3` [GNU Affero General Public License v3.0](https://github.com/lanshan-studio/wecqupt/blob/master/LICENSE)
-
-此外，南工助手代码仅作学习微信小程序所用，版权归SZP科技所有，禁止私用，违者必究
----
 
 ## 版本日志
 
